@@ -3,7 +3,7 @@
 + [Live Version](https://codepen.io/chillhumanoid/full/gOKNmwy)
 + [Link to fCC Project Page](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-markdown-previewer)
 
-## :wrench: Languages and Tools:
+## :wrench: Languages, Libraries, and Tools:
 ------
 + HTML5, Bootstrap
 + CSS3, FontAwesome
