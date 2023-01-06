@@ -5,9 +5,9 @@
 
 ## :wrench: Languages and Tools:
 ------
-+ HTML5
-+ CSS3
-+ JavaScript
++ HTML5, Bootstrap
++ CSS3, FontAwesome
++ JavaScript, React, ReactDOM, Marked
 + Visual Studio Code
 
 ## :camera: Screenshot:
